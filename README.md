@@ -1,0 +1,1 @@
+# 基于盛派官方WeiXinMPSDK案例简化的一款ASP.NET MVC 5 微信公众号快速开发框架
